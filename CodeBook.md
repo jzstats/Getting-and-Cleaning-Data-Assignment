@@ -155,7 +155,7 @@ the following notes should be taken into account:
     '[get_project_data.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/get_project_data.R)', 
     from the url:
     "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
-    at 'Sat Jan 27 14:59:09 2018'.
+    at 'Wed Jan 31 20:09:05 2018'.
   - The data was then processed by the script 
     '[run_analysis.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)'
     to create the 'tidy_data_summary' table.
