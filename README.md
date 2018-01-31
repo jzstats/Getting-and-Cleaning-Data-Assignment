@@ -80,7 +80,9 @@ It is the main script of the repository.
 As it is described in 'CodeBood.md':
 
 > In order to produce the 'tidy_data_summary' table,
-the script '[run_analysis.R](https://....)' was created and used. 
+the script 
+'[run_analysis.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)' 
+was created and used. 
 > It performs the following tasks: 
 >  
 > #### Merges the training and the test sets to create one data set with target variables. 
@@ -142,7 +144,9 @@ the script '[run_analysis.R](https://....)' was created and used.
 The tidy dataset that was produced by the script 'run_analysis.txt',
 which contains the averages of selected features from the original
 'Human Activity Recognition Using Smartphones Dataset Version 1.0'.
-The '[CodeBook.md]()' contains the details about the 'tidy_data_summary' table.
+The 
+'[CodeBook.md](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)' 
+contains the details about the 'tidy_data_summary' table.
 
 To read the table back on R correctly, you can use the following command:
 ``` 
