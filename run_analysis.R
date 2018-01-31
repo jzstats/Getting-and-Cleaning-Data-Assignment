@@ -30,7 +30,7 @@
 #               - in RStudio Version 1.1.383
 #               - with R version 3.4.3
 #               - and used dplyr_0.7.4
-#               - data was downloaded at date:
+#               - data was downloaded at date: Wed Jan 31 20:09:05 2018
 
 # DESCRIPTION: The script 'run_analysis.R' follows strictly the instruction
 #              given by assignment, in a simple straightforward way.
