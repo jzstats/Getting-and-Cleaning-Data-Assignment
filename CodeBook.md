@@ -370,19 +370,16 @@ and also it include the following notes:
 ### About the original dataset 
  
 The 'tidy_data_summary' table was created by using the following data set: 
-(the following is copy-paste from the data set's 'README.txt') 
  
-> ================================================================== 
-> Human Activity Recognition Using Smartphones Dataset 
-> Version 1.0 
-> ================================================================== 
+> Human Activity Recognition Using Smartphones Dataset Version 1.0 
+>  
 > Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
 > Smartlab - Non Linear Complex Systems Laboratory 
 > DITEN - Universit? degli Studi di Genova. 
 > Via Opera Pia 11A, I-16145, Genoa, Italy. 
 > activityrecognition@smartlab.ws 
 > www.smartlab.ws 
-> ================================================================== 
+ 
  
 More informations about the original data set can be found
 [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
