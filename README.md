@@ -140,7 +140,7 @@ the script '[run_analysis.R](https://....)' was created and used.
 ### tidy_data_summary.txt 
  
 The tidy dataset that was produced by the script 'run_analysis.txt',
-which contains the averages of selected features form the original
+which contains the averages of selected features from the original
 'Human Activity Recognition Using Smartphones Dataset Version 1.0'.
 The '[CodeBook.md]()' contains the details about the 'tidy_data_summary' table.
 
