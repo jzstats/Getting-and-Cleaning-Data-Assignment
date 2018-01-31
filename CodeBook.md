@@ -147,15 +147,17 @@ This dataset was created for the needs of:
  
 The data table can be reproduced,
 as all required scripts are available on the Git Hub repository
-[Getting and Cleaning Data Assignment](). 
+[Getting and Cleaning Data Assignment](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment). 
 Before trying to reproduce it,
 the following notes should be taken into account:
  
   - The data used for the download was accessed by the script
-    '[get_project_data.R]()', from the url:
+    '[get_project_data.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/get_project_data.R)', 
+    from the url:
     "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
     at 'Sat Jan 27 14:59:09 2018'.
-  - The data was then processed by the script '[run_analysis.R]()'
+  - The data was then processed by the script 
+    '[run_analysis.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)'
     to create the 'tidy_data_summary' table.
   - The scripts were executed in RStudio (version 1.1.383)
   - The library 'dplyr' version 0.7.4 was used.
@@ -184,7 +186,9 @@ nickname       Kite-Eating Tree
 *** 
 
 In order to produce the 'tidy_data_summary' table,
-the script '[run_analysis.R](https://....)' was created and used. 
+the script 
+'[run_analysis.R](https://github.com/jzstats/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)'
+was created and used. 
 It performs the following tasks: 
  
 #### Merges the training and the test sets to create one data set with target variables. 
