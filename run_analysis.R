@@ -295,6 +295,9 @@ names(tidy_data_summary) <- new_names_for_summary
 ## Save the data frame created as a text file in working directory
 write.table(tidy_data_summary, "tidy_data_summary.txt", row.names = FALSE)
 
+message("The script 'run_analysis.R was executed successfully. \n",
+        "As a result, a new tidy data set was created with name \n", 
+        "'tidy_data_summary.txt' in the working directory.")
 
 # THE END ######################################################################
 
