@@ -1,9 +1,7 @@
 # Getting-and-Cleaning-Data-Assignment
-***
-***
+***  
 
 ## About this repository 
-*** 
  
 This repository was created for the peer-graded assignment of: 
 
@@ -51,8 +49,7 @@ each measurement.
 with the average of each variable for each activity and each subject. 
 
 *** 
-## Details on the files that exist in this repository 
-***
+## Details on the files that exist in this repository  
  
 
 ### README.md 
@@ -181,4 +178,3 @@ It consists of the following:
      - About the original data set 
   4. License 
  
-
