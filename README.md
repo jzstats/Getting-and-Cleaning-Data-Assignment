@@ -156,8 +156,8 @@ Or for faster loading some additional arguments can be specified:
 ```   
 tidy_data_summary <- read.table(file  = "tidy_data_summary.txt", 
                                 header = TRUE, check.names = FALSE, dec = ".", 
-                                colClasses = c("numeric", "factor", "rep("numeric", 66)), 
-                                nrows = 180, comments.char = "", quote = "") 
+                                colClasses = c("numeric", "factor", rep("numeric", 66)), 
+                                nrows = 180, comment.char = "", quote = "") 
 ``` 
  
 ### CodeBook.md 
