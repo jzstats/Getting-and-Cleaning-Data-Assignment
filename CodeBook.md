@@ -1,9 +1,7 @@
 # CODE BOOK for the 'tidy_data_summary' data table. 
 *** 
-*** 
  
-## Table of Contents 
-*** 
+## Table of Contents  
  
 The code book consists of the following: 
  
@@ -22,8 +20,7 @@ The code book consists of the following:
  
  
 *** 
-## Informations on 'tidy_data_summary' data table 
-*** 
+## Informations on 'tidy_data_summary' data table  
  
 ### Identificators and averages of features
  
@@ -183,7 +180,6 @@ nickname       Kite-Eating Tree
   
 *** 
 ## The process by which the 'tidy_data_summary' table was produced  
-*** 
 
 In order to produce the 'tidy_data_summary' table,
 the script 
@@ -248,7 +244,6 @@ It performs the following tasks:
     
 ***
 ## Description of the features on which the averages were based 
-*** 
  
 ### Informations on how the features were produced from the raw data 
  
@@ -390,8 +385,7 @@ More informations about the original data set can be found
  
  
 *** 
-### License
-***
+### License  
 
 The following is a copy-paste from the 'README.txt' of the original data set
 which I encourage everybody to use.
