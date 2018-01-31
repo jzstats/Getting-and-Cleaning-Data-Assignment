@@ -153,12 +153,12 @@ read.table_instructions <- list(
       nrows = list(
             activity_labels = 6,
             features = 561,
-            subject_train = 2947,
-            y_train = 2947,
-            X_train = 2947,
-            subject_test = 7352,
-            y_test = 7352,
-            X_test = 7352
+            subject_train = 7352,
+            y_train = 7352,
+            X_train = 7352,
+            subject_test = 2947,
+            y_test = 2947,
+            X_test = 2947
       )
 )
 
